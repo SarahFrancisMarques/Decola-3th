@@ -1,8 +1,5 @@
 
+Maneiras de usa dos atribuindo valores 
 
-
-
-
-https://miro.medium.com/max/1400/1*TblJQp4DJ6XmVzHJ5X6Zmw.png
-
+![image](https://user-images.githubusercontent.com/75794109/175841095-7dd63fd2-9a8c-4928-bdd0-c44baae4baf9.png)
 
